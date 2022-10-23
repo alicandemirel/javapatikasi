@@ -17,6 +17,8 @@ public class Palindrom {
             return true;
         } else {
             return false;
+
+
         }
     }
 
